@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 20
+<<<<<<< HEAD
   productGUID: 2b8637da69a951a4083a93697fc6bef7
+=======
+  productGUID: 7b0033ed3dadaa244a980d8076a3280b
+>>>>>>> 6e878563c31dc4e0d7c0df12617148548a940340
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +17,11 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
+<<<<<<< HEAD
   productName: xyj10.7
+=======
+  productName: xyj0915
+>>>>>>> 6e878563c31dc4e0d7c0df12617148548a940340
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}

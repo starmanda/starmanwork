@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< HEAD
   tags: []
+=======
+  tags:
+  - Tian
+  - Du
+  - TianDu
+  - 11
+>>>>>>> 6e878563c31dc4e0d7c0df12617148548a940340
   layers:
   - Default
   - TransparentFX
@@ -41,6 +49,7 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+<<<<<<< HEAD
   - name: New Layer
     uniqueID: 1109647019
     locked: 0
@@ -53,3 +62,5 @@ TagManager:
   - name: New Layer
     uniqueID: 1119092337
     locked: 0
+=======
+>>>>>>> 6e878563c31dc4e0d7c0df12617148548a940340
